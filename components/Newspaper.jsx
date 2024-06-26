@@ -3,7 +3,7 @@ import { Card, CardContent, CardMedia, Typography, Button, Grid } from "@materia
 import Image from "next/image";
 
 {/* Import projects images */}
-import ututo from '../public/assets/ututo.png'
+import ututo from '../public/assets/radio02.png'
 
 function Newspaper() {
   return (

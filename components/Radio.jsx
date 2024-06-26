@@ -3,7 +3,8 @@ import { Card, CardContent, CardMedia, Typography, Button, Grid } from "@materia
 import Image from "next/image";
 
 {/* Import projects images */}
-import ututo from '../public/assets/radio01.png'
+import radio01 from '../public/assets/radio01.png'
+import radio02 from '../public/assets/radio02.png'
 
 function Radio() {
   return (
@@ -23,7 +24,7 @@ function Radio() {
                     29/01 - Radio con vos
                   </Typography>
                   <CardMedia style={{ width: '100%', height: '150px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                    <Image src={ututo} alt="Radio 01" width={300} height={150} />
+                    <Image src={radio01} alt="Radio 01" width={300} height={150} />
                   </CardMedia>
                   <br/>
                   <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=Ksxr5MxwBOE" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
@@ -39,7 +40,7 @@ function Radio() {
                   30/01 - Desde el barrio
                 </Typography>
                 <CardMedia style={{ width: '100%', height: '150px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                  <Image src={ututo} alt="Radio 01" width={300} height={150} />
+                  <Image src={radio02} alt="Radio 02" width={300} height={150} />
                 </CardMedia>
                 <br/>
                 <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=UpZgyhsahSo" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
