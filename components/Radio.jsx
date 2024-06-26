@@ -16,17 +16,33 @@ function Radio() {
         </p>
         <br/>
         <Grid container spacing={2}>
-        <Grid item xs={12} sm={6} md={3}>
+          <Grid item xs={12} sm={6} md={3}>
+              <Card>
+                <CardContent>
+                  <Typography variant="h6" color="textPrimary" gutterBottom>
+                    29/01 - Radio con vos
+                  </Typography>
+                  <CardMedia style={{ width: '100%', height: '150px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                    <Image src={ututo} alt="Radio 01" width={300} height={150} />
+                  </CardMedia>
+                  <br/>
+                  <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=Ksxr5MxwBOE" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                    Listen
+                  </Button>
+                </CardContent>
+              </Card>
+          </Grid>
+          <Grid item xs={12} sm={6} md={3}>
             <Card>
               <CardContent>
                 <Typography variant="h6" color="textPrimary" gutterBottom>
-                  29/01 - Radio con vos
+                  30/01 - Desde el barrio
                 </Typography>
                 <CardMedia style={{ width: '100%', height: '150px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                   <Image src={ututo} alt="Radio 01" width={300} height={150} />
                 </CardMedia>
                 <br/>
-                <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=Ksxr5MxwBOE" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <Button variant="contained" color="secondary" href="https://www.youtube.com/watch?v=UpZgyhsahSo" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                   Listen
                 </Button>
               </CardContent>
