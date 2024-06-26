@@ -3,8 +3,8 @@ import { Card, CardContent, CardMedia, Typography, Button, Grid } from "@materia
 import Image from "next/image";
 
 {/* Import projects images */}
-import radio01 from '../public/assets/radio01.png'
-import radio02 from '../public/assets/radio02.png'
+import radio01 from '../public/assets/radio/radio01.png'
+import radio02 from '../public/assets/radio/radio02.png'
 
 function Radio() {
   return (

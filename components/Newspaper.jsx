@@ -3,7 +3,7 @@ import { Card, CardContent, CardMedia, Typography, Button, Grid } from "@materia
 import Image from "next/image";
 
 {/* Import projects images */}
-import ututo from '../public/assets/radio02.png'
+import news01 from '../public/assets/newspapers/news01.png'
 
 function Newspaper() {
   return (
@@ -20,14 +20,14 @@ function Newspaper() {
             <Card>
               <CardContent>
                 <Typography variant="h6" color="textPrimary" gutterBottom>
-                  Chapter 01
+                  29/01 - Página 12
                 </Typography>
                 <CardMedia style={{ width: '100%', height: '150px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                  <Image src={ututo} alt="Ututo Logo" width={300} height={150} />
+                  <Image src={news01} width={300} height={150} />
                 </CardMedia>
                 <br/>
-                <Button variant="contained" color="secondary" href="https://open.spotify.com/episode/2qT9jtxwdbP6IuZ7Ehv1tM?si=6255287fbc554993" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                  Listen chapter
+                <Button variant="contained" color="secondary" href="https://www.pagina12.com.ar/708029-el-gobierno-nacional-podra-privatizar-la-educacion-pero-no-l" target="_blank" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                  Read article
                 </Button>
               </CardContent>
             </Card>
