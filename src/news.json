@@ -1,8 +1,122 @@
 [ 
   {
     "title": "29/01 - Radio con vos",
-    "imageSrc": "./assets/ututo.png",
+    "imageSrc": "./assets/radio_con_vos_educar.png",
     "url": "https://www.youtube.com/watch?v=Ksxr5MxwBOE",
     "category": "radio"
+  },
+  {
+    "title": "29/01 - Página 12",
+    "imageSrc": "./assets/pagina_12_educar.png",
+    "url": "https://www.pagina12.com.ar/708029-el-gobierno-nacional-podra-privatizar-la-educacion-pero-no-l",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - Difusión Noticias",
+    "imageSrc": "./assets/difusion_noticias_educar.png",
+    "url": "https://difusionnoticias.com.ar/con-la-suspension-de-educ-ar-un-joven-salio-al-rescate-recupero-mas-de-20-anos-de-recursos-educativos/",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - Primereando",
+    "imageSrc": "./assets/primereando_educar.png",
+    "url": "https://primereando.com.ar/index.php/2024/01/29/brutal-el-gobierno-de-milei-dio-de-baja-dos-plataformas-educativas-con-contenidos-de-calidad-para-chicos/105655/",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - Conclusión",
+    "imageSrc": "./assets/conclusion_educar.png",
+    "url": "https://www.conclusion.com.ar/info-general/milei-dio-de-baja-educ-ar-y-conectar-igualdad-pero-usuarios-recuperaron-el-contenido-educativo/01/2024/",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - La Insuperable",
+    "imageSrc": "./assets/la_insuperable_educar.png",
+    "url": "https://noticiaslainsuperable.com.ar/2024/01/29/la-tenes-adentro-un-usuario-salvaguardo-el-contenido-educativo-de-educ-ar-y-conectar-igualdad-que-borro-milei-y-lo-puso-a-disposicion-de-todos/",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - CBA 24 Noticias",
+    "imageSrc": "./assets/cba24_educar.png",
+    "url": "https://www.cba24n.com.ar/argentina/educ-ar-estuvo-caida--entre-la-privatizacion-y-el-rescate-de-sus-contenidos-educativos_a65b7a5045123058ec87efa58",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - El Cordillerano",
+    "imageSrc": "./assets/el_cordillerano_educar.png",
+    "url": "https://www.elcordillerano.com.ar/noticias/2024/01/29/180716-aunque-ya-hay-pagina-espejo-el-gobierno-bajo-educar",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - Todo Provincial",
+    "imageSrc": "./assets/todo_provincial_educar.png",
+    "url": "https://www.todoprovincial.com/portal-educ-ar-puesto-en-linea-nuevamente-bloqueo-miles-reclamos/",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - Noticias de Bariloche",
+    "imageSrc": "./assets/noticias_bariloche_educar.png",
+    "url": "https://www.noticiasdebariloche.com.ar/aunque-ya-hay-pagina-espejo-el-gobierno-bajo-educ-ar/",
+    "category": "newspaper"
+  },
+  {
+    "title": "28/01 - Plan B Noticias",
+    "imageSrc": "./assets/plan_b_educar.png",
+    "url": "https://www.planbnoticias.com.ar/index.php/2024/01/28/ante-el-posible-cierre-de-educ-ar-crearon-una-pagina-espejo-para-evitar-que-se-pierda-el-contenido/#google_vignette",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - MSN Noticias",
+    "imageSrc": "./assets/msn_educar.png",
+    "url": "https://www.msn.com/es-us/noticias/other/el-gobierno-nacional-podr%C3%A1-privatizar-la-educaci%C3%B3n-pero-no-la-solidaridad/ar-BB1hoz10?apiversion=v2&noservercache=1&batchservertelemetry=1&noservertelemetry=1&domshim=1&renderwebcomponents=1&wcseo=1",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - Semanario Junin",
+    "imageSrc": "./assets/semanario_junin_educar.png",
+    "url": "https://semanariodejunin.com.ar/nota/44194/ante-el-posible-cierre-de-educ-ar-un-usuario-creo-una-pagina-espejo-para-evitar-que-se-pierda-el-contenido/",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - El Ancasti",
+    "imageSrc": "./assets/el_ancasti_educar.png",
+    "url": "https://www.elancasti.com.ar/informacion-general/crean-una-pagina-espejo-educar-evitar-que-se-pierda-el-contenido-n545508",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - El Destape",
+    "imageSrc": "./assets/el_destape_educar.png",
+    "url": "https://www.instagram.com/reel/C2s6nBJveQo/",
+    "category": "radio"
+  },
+  {
+    "title": "29/01 - Radio Gráfica",
+    "imageSrc": "./assets/radio_grafica_educar.png",
+    "url": "https://www.youtube.com/watch?v=UpZgyhsahSo&ab_channel=RadioGr%C3%A1ficaFM89.3",
+    "category": "radio"
+  },
+  {
+    "title": "30/01 - Rio Negro",
+    "imageSrc": "./assets/rio_negro_educar.png",
+    "url": "https://www.rionegro.com.ar/sociedad/por-la-posible-baja-de-educ-ar-un-usuario-creo-una-web-espejo-3385045/",
+    "category": "newspaper"
+  },
+  {
+    "title": "29/01 - Pausa",
+    "imageSrc": "./assets/pausa_educar.png",
+    "url": "https://www.pausa.com.ar/2024/01/el-partido-pirata-de-argentina-hizo-una-copia-de-la-plataforma-educ-ar/",
+    "category": "newspaper"
+  },
+  {
+    "title": "31/01 - La Capital",
+    "imageSrc": "./assets/la_capital_educar.png",
+    "url": "https://www.lacapital.com.ar/educacion/el-portal-educar-se-encuentra-activo-nuevamente-que-sucedio-su-bloqueo-n10115804.html",
+    "category": "newspaper"
+  },
+  {
+    "title": "31/01 - El Diaguita",
+    "imageSrc": "./assets/el_diaguita_educar.png",
+    "url": "https://eldiaguita.com.ar/crean-una-pagina-espejo-de-educ-ar-para-evitar-que-se-pierda-el-contenido/",
+    "category": "newspaper"
   }
 ]

@@ -88,8 +88,8 @@ function App() {
                 className={classes.categoryFilter}
               >
                 <MenuItem value="All">All</MenuItem>
-                <MenuItem value="ututo">Radio</MenuItem>
-                <MenuItem value="Web">Newspaper</MenuItem>
+                <MenuItem value="radio">Radio</MenuItem>
+                <MenuItem value="newspaper">Newspaper</MenuItem>
                 {/* Add more categories as needed */}
               </Select>
 
