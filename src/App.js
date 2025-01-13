@@ -63,7 +63,7 @@ function App() {
             className={classes.littleSpace}
             color="primary"
           >
-            News about stuff I done in the past (click <a href="https://jpromano.net">here</a> to return home)
+            News about stuff I done in the past (click <a href="https://jpromano.net/about">here</a> to return home)
           </Typography>
           <Typography
             variant="h5"
